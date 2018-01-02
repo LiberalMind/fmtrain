@@ -1,0 +1,13 @@
+#
+# file names matches below pattern will be ignored.
+# this is to avoid user commit and push data to central repo by mistake
+# by default the data in cental repo should be *.asc
+#
+*.v
+*.V
+*.vhd
+*.VHD
+*.vhdl
+*.VHDL
+*.sv
+*.SV
