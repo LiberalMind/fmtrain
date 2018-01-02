@@ -11,3 +11,7 @@
 *.VHDL
 *.sv
 *.SV
+*.doc
+*.docx
+*.pdf
+*.xls
